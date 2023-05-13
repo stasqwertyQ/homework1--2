@@ -1,0 +1,1082 @@
+.list__iteming {
+display: flex;
+margin-left: 320px;
+margin-top: 20px;
+}
+
+.list1 {
+    width: 73px;
+        height: 38px;
+        margin-right: 20px;
+        box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+            border-radius: 4px;
+font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #212121;
+}
+
+.list2 {
+    width: 125px;
+        height: 38px;
+        margin-right: 20px;
+        box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+            border-radius: 4px;
+            font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 26px;
+            
+                text-align: center;
+                letter-spacing: 0.03em;
+            
+                color: #212121;
+}
+
+
+.list3 {
+    width: 112px;
+        height: 38px;
+        margin-right: 20px;
+        box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+            border-radius: 4px;
+            font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 26px;
+
+            
+                text-align: center;
+                letter-spacing: 0.03em;
+            
+                color: #212121;
+}
+
+.list4 {
+    width: 103px;
+        height: 38px;
+        margin-right: 20px;
+        box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+            border-radius: 4px;
+            font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 26px;
+            
+                text-align: center;
+                letter-spacing: 0.03em;
+            
+                color: #212121;
+}
+
+.list5 {
+    width: 130px;
+        height: 38px;
+        margin-right: 20px;
+        box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+            border-radius: 4px;
+            font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 26px;
+            
+                text-align: center;
+                letter-spacing: 0.03em;
+            
+                color: #212121;
+}
+
+.list1:hover {
+background: #2196F3;
+font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+
+.list2:hover {
+background: #2196F3;
+font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+
+.list3:hover {
+    background: #2196F3;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #FFFFFF;
+}
+
+.list4:hover {
+    background: #2196F3;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #FFFFFF;
+}
+
+.list5:hover {
+    background: #2196F3;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #FFFFFF;
+}
+
+.diving {
+    box-sizing: border-box;
+    width: 375px;
+        height: 404px;
+        margin-left: 15px;
+        margin-top: 30px;
+        background: #FFFFFF;
+            border: 1px solid #EEEEEE;
+            box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+.paragraf--div1 {
+    width: 322px;
+        height: 36px;
+        margin-left: 19px;
+        margin-top: -7px;
+        font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 36px;
+            letter-spacing: 0.06em;
+        
+            color: #212121;
+}
+
+.paragraf---div222 {
+    width: 322px;
+        height: 30px;
+        margin-left: 19px;
+        margin-top: -20px;
+        font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 30px;
+        
+            letter-spacing: 0.03em;
+        
+            color: #757575;
+}
+
+
+
+
+
+
+.container {
+
+margin-top: -402px;
+margin-left: 18px;
+    width: 375px;
+    height: 95px;
+}
+
+.text-wrapper {
+    position: relative;
+    overflow: hidden;
+}
+
+.animated-text {
+display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -10px;
+    width: 376px;
+    height: 200px;
+    margin-top: -11px;
+
+    
+
+    padding: 52px 2px;
+
+    background-color: rgba(33, 150, 243, 0.9);
+
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 29px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+
+    color: #ffffff;
+
+    transform: translateY(-110%);
+    transition: transform 0.5s linear;
+}
+
+.text-wrapper:hover .animated-text {
+    transform: translateX(0);
+}
+
+
+
+.diving1 {
+    box-sizing: border-box;
+    width: 375px;
+    height: 404px;
+    margin-left: 435px;
+    margin-top: -97px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+
+
+
+
+.containering {
+    margin-top: -405px;
+    margin-left: 435px;
+        width: 375px;
+            height: 95px;
+
+}
+
+
+.text-wrapperrr {
+        position: relative;
+            overflow: hidden;
+}
+
+
+.animated----Text {
+display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -7px;
+    width: 376px;
+    height: 205px;
+    margin-top: -11px;
+
+
+            padding: 52px 2px;
+            
+                background-color: rgba(33, 150, 243, 0.9);
+                font-family: "Roboto";
+                    font-weight: 700;
+                    font-size: 16px;
+                    line-height: 28px;
+                    text-align: center;
+                    letter-spacing: 0.02em;
+                    text-transform: uppercase;
+                
+                    color: #ffffff;
+
+                    transform: translateY(-110%);
+                        transition: transform 0.5s linear;
+}
+
+
+.text-wrapperrr:hover .animated----Text {
+        transform: translateX(0);
+}
+
+
+.div--booking {
+    box-sizing: border-box;
+        width: 375px;
+        height: 404px;
+        margin-left: 435px;
+        margin-top: -97px;
+        background: #FFFFFF;
+        border: 1px solid #EEEEEE;
+        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+
+
+.paragraf--divlimited--edition {
+        width: 322px;
+            height: 36px;
+            margin-left: 19px;
+            margin-top: -7px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 36px;
+            letter-spacing: 0.06em;
+        
+            color: #212121;
+}
+
+
+.paragraf---divingdisign {
+        width: 322px;
+            height: 30px;
+            margin-left: 19px;
+            margin-top: -20px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 30px;
+        
+            letter-spacing: 0.03em;
+        
+            color: #757575;
+        
+}
+
+
+.diving2 {
+    box-sizing: border-box;
+        width: 375px;
+        height: 404px;
+        margin-left: 865px;
+        margin-top: -95px;
+        background: #FFFFFF;
+        border: 1px solid #EEEEEE;
+        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+
+.paragraf--div1 {
+    width: 322px;
+        height: 36px;
+        margin-left: 19px;
+        margin-top: -7px;
+        font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 36px;
+            letter-spacing: 0.06em;
+        
+            color: #212121;
+}
+
+.paragraf---div222 {
+    width: 322px;
+        height: 30px;
+        margin-left: 19px;
+        margin-top: -20px;
+        font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 30px;
+        
+            letter-spacing: 0.03em;
+        
+            color: #757575;
+}
+
+
+.containering22 {
+    margin-top: -402px;
+        margin-left: 867px;
+        width: 375px;
+        height: 95px;
+}
+
+
+
+
+.text-wrapperrrR {
+        position: relative;
+            overflow: hidden;
+}
+
+.animated----Texting {
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: -7px;
+        width: 376px;
+        height: 205px;
+        margin-top: -11px;
+    
+    
+        padding: 52px 2px;
+    
+        background-color: rgba(33, 150, 243, 0.9);
+        font-family: "Roboto";
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+    
+        color: #ffffff;
+    
+        transform: translateY(-110%);
+        transition: transform 0.5s linear;
+}
+
+
+.text-wrapperrrR:hover .animated----Texting {
+    transform: translateX(0);
+}
+
+
+.diving13 {
+box-sizing: border-box;
+    width: 375px;
+    height: 404px;
+    margin-left: 15px;
+    margin-top: 345px;
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+
+}
+
+.paragraf--div11 {
+    width: 322px;
+    height: 36px;
+    margin-left: 19px;
+    margin-top: -7px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+
+    color: #212121;
+}
+
+.paragraf---div2221 {
+    width: 322px;
+    height: 30px;
+    margin-left: 19px;
+    margin-top: -20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    letter-spacing: 0.03em;
+
+    color: #757575;
+}
+
+
+.containering2212 {
+        margin-top: -402px;
+            margin-left: 15px;
+            width: 375px;
+            height: 95px;
+}
+
+.text-wrappering {
+        position: relative;
+            overflow: hidden;
+}
+
+.animated----TextinG {
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: -7px;
+        width: 376px;
+        height: 205px;
+        margin-top: -11px;
+    
+    
+        padding: 52px 2px;
+    
+        background-color: rgba(33, 150, 243, 0.9);
+        font-family: "Roboto";
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+    
+        color: #ffffff;
+    
+        transform: translateY(-110%);
+        transition: transform 0.5s linear;
+}
+
+
+.text-wrappering:hover .animated----TextinG {
+    transform: translateX(0);
+}
+.diving66 {
+    box-sizing: border-box;
+        width: 375px;
+        height: 404px;
+        margin-left: 435px;
+        margin-top: -53px;
+        background: #FFFFFF;
+        border: 1px solid #EEEEEE;
+        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+    
+}
+
+
+
+.paragraf--div66 {
+    width: 322px;
+        height: 36px;
+        margin-left: 19px;
+        margin-top: -1px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 36px;
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+}
+
+
+.paragraf---div66666 {
+        width: 322px;
+            height: 30px;
+            margin-left: 19px;
+            margin-top: -20px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 30px;
+        
+            letter-spacing: 0.03em;
+        
+            color: #757575;
+}
+
+
+.containering666666 {
+            margin-top: -404px;
+                margin-left: 435px;
+                width: 475px;
+                height: 54px;
+}
+
+.text-wrapperingg {
+    position: relative;
+    overflow: hidden;
+}
+
+.animated----TextinGwe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -7px;
+    width: 376px;
+    height: 214px;
+    margin-top: -24px;
+
+
+    padding: 52px 2px;
+
+    background-color: rgba(14, 146, 255, 0.9);
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+
+    color: #ffffff;
+
+    transform: translateY(-110%);
+    transition: transform 0.5s linear;
+}
+
+
+
+.text-wrapperingg:hover .animated----TextinGwe  {
+    transform: translateX(0);
+}
+
+
+
+
+
+
+
+
+
+.div--GROWING {
+    box-sizing: border-box;
+        width: 375px;
+        height: 404px;
+        margin-left: 870px;
+        margin-top: -98px;
+        background: #FFFFFF;
+        border: 1px solid #EEEEEE;
+        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+    }
+
+
+
+    .paragraf--divgrow1 {
+        width: 322px;
+            height: 36px;
+            margin-left: 19px;
+            margin-top: -1px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 36px;
+            letter-spacing: 0.06em;
+        
+            color: #212121;
+    }
+
+
+    .paragraf---divgrow2 {
+        width: 322px;
+            height: 30px;
+            margin-left: 19px;
+            margin-top: -20px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 30px;
+        
+            letter-spacing: 0.03em;
+        
+            color: #757575;
+    }
+
+
+    .boxinglasstt {
+        margin-top: -404px;
+            margin-left: 870px;
+            width: 475px;
+            height: 54px;
+    }
+
+
+.animated----TEXTlasting {
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: -7px;
+        width: 376px;
+        height: 214px;
+        margin-top: -24px;
+    
+    
+        padding: 52px 2px;
+    
+        background-color: rgba(14, 146, 255, 0.9);
+        font-family: "Roboto";
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+    
+        color: #ffffff;
+    
+        transform: translateY(-110%);
+        transition: transform 0.5s linear;
+}
+
+
+.text-wraper {
+    position: relative;
+    overflow: hidden;
+}
+
+.text-wraper:hover .animated----TEXTlasting {
+    transform: translateX(0);
+}
+
+
+.diving88 {
+    box-sizing: border-box;
+        width: 375px;
+        height: 404px;
+        margin-left: 10px;
+        margin-top: 398px;
+        background: #FFFFFF;
+        border: 1px solid #EEEEEE;
+        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+
+.paragraf--div88 {
+    width: 322px;
+        height: 36px;
+        margin-left: 19px;
+        margin-top: -1px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 36px;
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+}
+
+
+.paragraf---div8888 {
+    width: 322px;
+        height: 30px;
+        margin-left: 19px;
+        margin-top: -20px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+
+
+.containering88888 {
+        margin-top: -404px;
+            margin-left: 10px;
+            width: 475px;
+            height: 54px;
+}
+
+
+
+.animated----TextinGweww8 {
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: -7px;
+        width: 376px;
+        height: 214px;
+        margin-top: -24px;
+    
+    
+        padding: 52px 2px;
+    
+        background-color: rgba(14, 146, 255, 0.9);
+        font-family: "Roboto";
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+    
+        color: #ffffff;
+    
+        transform: translateY(-110%);
+        transition: transform 0.5s linear;
+}
+
+
+
+
+.text-wrapperingg {
+        position: relative;
+            overflow: hidden;
+}
+
+
+
+.text-wrapperingg:hover .animated----TextinGweww8 {
+    transform: translateX(0);
+}
+
+
+
+
+.diving22 {
+    box-sizing: border-box;
+        width: 375px;
+        height: 404px;
+        margin-left: 440px;
+        margin-top: -60px;
+        background: #FFFFFF;
+        border: 1px solid #EEEEEE;
+        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+
+
+
+.paragraf--div99 {
+        width: 322px;
+            height: 36px;
+            margin-left: 19px;
+            margin-top: -1px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 36px;
+            letter-spacing: 0.06em;
+        
+            color: #212121;
+}
+
+
+
+.paragraf---div99999 {
+        width: 322px;
+            height: 30px;
+            margin-left: 19px;
+            margin-top: -20px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 30px;
+        
+            letter-spacing: 0.03em;
+        
+            color: #757575;
+}
+
+
+
+.containering99999 {
+        margin-top: -410px;
+            margin-left: 440px;
+            width: 475px;
+            height: 54px;
+}
+
+
+
+
+.animated----TextinGweww9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -7px;
+    width: 376px;
+    height: 214px;
+    margin-top: -24px;
+
+
+    padding: 52px 2px;
+
+    background-color: rgba(14, 146, 255, 0.9);
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+
+    color: #ffffff;
+
+    transform: translateY(-110%);
+    transition: transform 0.5s linear;
+}
+
+
+
+
+
+
+.text-wrapperingg {
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+.text-wrapperingg:hover .animated----TextinGweww9 {
+       transform: translateX(0);
+}
+
+
+
+
+.diving101010 {
+    box-sizing: border-box;
+        width: 375px;
+        height: 404px;
+        margin-left: 870px;
+        margin-top: -50px;
+        background: #FFFFFF;
+        border: 1px solid #EEEEEE;
+        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+    
+}
+
+.paragraf--div99 {
+    width: 322px;
+    height: 36px;
+    margin-left: 19px;
+    margin-top: -1px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+
+    color: #212121;
+}
+
+
+
+.paragraf---div99999 {
+    width: 322px;
+    height: 30px;
+    margin-left: 19px;
+    margin-top: -20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    letter-spacing: 0.03em;
+
+    color: #757575;
+}
+
+
+
+.containering10101010 {
+margin-top: -400px;
+    margin-left: 870px;
+    width: 475px;
+    height: 54px;
+}
+
+
+
+.animated----TextinGweww10 {
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: -7px;
+        width: 376px;
+        height: 214px;
+        margin-top: -24px;
+    
+    
+        padding: 52px 2px;
+    
+        background-color: rgba(14, 146, 255, 0.9);
+        font-family: "Roboto";
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+    
+        color: #ffffff;
+    
+        transform: translateY(-110%);
+        transition: transform 0.5s linear;
+}
+
+
+
+.text-wrapperingg {
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+
+.text-wrapperingg:hover .animated----TextinGweww10 {
+    transform: translateX(0);
+}
+
+.animateMYYYYSVG {
+    margin-top: 200px;
+}
+
+.line {
+    stroke: rgb(255, 0, 0);
+    fill: blue;
+    animation: star 2s linear infinite;
+}
+
+.animateSVG {
+    margin-top: 190px;
+    transform: rotate(0);
+    animation: star 2s linear infinite;
+}
+
+@keyframes star {
+    0% {
+        stroke: rgb(43, 255, 0);
+        fill: rgb(0, 4, 255);
+    }
+
+    25% {
+        stroke: rgb(255, 0, 149);
+        fill: rgb(29, 170, 29);
+    }
+
+    50% {
+        stroke: rgb(158, 13, 255);
+        fill: rgb(209, 30, 209);
+    }
+
+    75% {
+        stroke: rgb(24, 209, 64);
+        fill: rgb(219, 255, 14);
+    }
+
+    100% {
+        stroke: rgb(19, 8, 8);
+        fill: rgb(255, 255, 255);
+    }
+}
+
+

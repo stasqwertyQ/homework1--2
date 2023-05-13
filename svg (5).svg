@@ -1,0 +1,16 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <ellipse rx="0.5" id="svg_10" cy="351" cx="660.5" stroke="#000" fill="#ba0b33"/>
+  <line fill="none" stroke="#000" x1="508" y1="376" x2="507" y2="376" id="svg_13"/>
+  <line fill="none" stroke="#000" x1="508" y1="438" x2="507" y2="436" id="svg_16"/>
+  <line fill="none" stroke="#000" x1="481" y1="422" x2="483" y2="422" id="svg_20"/>
+  <line fill="none" stroke="#000" x1="541" y1="405" x2="543" y2="405" id="svg_22"/>
+  <g id="svg_2">
+   <line fill="none" stroke="#000" x1="527" y1="341" x2="533" y2="342" id="svg_18"/>
+  </g>
+  <path id="svg_3" d="m270.20699,349.68906l12.98452,-54.98723l52.5709,-24.47165l52.57091,24.47165l12.98475,54.98723l-36.38124,44.09663l-58.34885,0l-36.38099,-44.09663z" stroke="#000" fill="#06aaaa"/>
+  <path stroke="#000" style="vector-effect: non-scaling-stroke;" id="svg_4" d="m451.5136,352.964l0.14756,-0.63855l0.59744,-0.28418l0.59744,0.28418l0.14757,0.63855l-0.41345,0.51208l-0.66311,0l-0.41345,-0.51208z" fill="#06aaaa"/>
+ </g>
+
+</svg>
